@@ -1,7 +1,3 @@
-#AI CW README
-
-
-
 #MinSet-with-greedy-algorithm
 
 This is a java oriented project that allows users to customize their own test instances (Problem)
